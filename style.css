@@ -756,6 +756,76 @@ body.light-mode .toggle-mode:hover {
     background-color: #59b2f4;
 }
 
+/* =============== MOBILE RESPONSIVENESS =============== */
+@media (max-width: 768px) {
+    html {
+        font-size: 50%;
+    }
+
+    section {
+        padding: 5rem 5%;
+    }
+
+    .home-content,
+    .about-content,
+    .education-content,
+    .services-container,
+    .project-box,
+    .technical-skills {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .services-box,
+    .project-item,
+    .edu-box {
+        width: 100%;
+    }
+
+    nav {
+        flex-direction: column;
+    }
+
+    .toggle-btn {
+        margin-top: 2rem;
+    }
+
+    .contact form input,
+    .contact form textarea {
+        width: 100%;
+    }
+
+    .about-img img {
+        width: 80%;
+        margin: 2rem 0;
+    }
+}
+
+@media (max-width: 768px) {
+  .header-image {
+    height: auto;
+    background-size: cover;
+    background-position: center;
+  }
+
+  .header-text {
+    padding: 1rem;
+    background: rgba(0, 0, 0, 0.5); /* improves readability */
+    color: white;
+  }
+}
+
+@media (max-width: 768px) {
+  .education-container {
+    display: flex;
+    flex-direction: column; /* stack boxes vertically */
+    gap: 1rem;
+  }
+
+  .education-box {
+    width: 100%; /* full width for mobile */
+  }
+}
 
 
 
