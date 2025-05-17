@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This website showcases my projects, te
 
 ## 📁 Live Demo
 
-🔗 [Click here to visit the live website](https://yourusername.github.io/portfolio/)  
+🔗 [Click here to visit the live website](https://gayatrixc.github.io/portfolio_project/)  
 
 ---
 
