@@ -29,3 +29,13 @@ Welcome to my personal portfolio website! This website showcases my projects, te
 - 🌓 Dark mode toggle (optional if you have it)
 
 ---
+
+## 🙋‍♀️ Author
+
+**Gayatri**  
+🔗 [LinkedIn](https://www.linkedin.com/in/gayatri-xc/)   
+📍 Hyderabad, Telangana, India
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+
